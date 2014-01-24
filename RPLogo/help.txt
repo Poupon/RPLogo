@@ -1,0 +1,115 @@
+
+change la positon de la tortue en X Y:
+
+X Y Position
+X Y POS
+X Y FPOS
+X Y FixeXY
+
+
+Avance la tortue de N:
+
+N Avance
+N AV
+
+
+Recule la tortue de N
+N Recule
+N RE
+
+
+Tourne la tortue a D degre:
+
+D Angle
+D FixeCap
+D FCAP
+
+
+Tourne la tortue de N degre vers la droite:
+
+D Droite
+D DR
+D TD
+
+Tourne la tortue de N degre vers la Gauche:
+
+D Gauche
+D GA
+D TG
+
+Fait faire un demi tout a la tortue:
+
+DemiTour
+Demi_Tour
+DT
+
+
+
+Montre la tortue:
+
+MONTRETORTUE
+MONTRE_TORTUE
+MT
+
+Cache la tortue:
+
+CACHE_TORTUE
+CACHETORTUE
+CT
+
+
+Leve le crayon :
+
+LeveCrayon
+Leve_Crayon
+LP
+
+
+
+Baisse le crayon :
+
+BaisseCrayon
+Baisse_Crayon
+BP
+		
+
+Change la couleur du crayon a C:
+
+Couleur C 
+Couleur_Crayon C
+FCC C
+COL C
+
+couleurs permise:
+rouge,rose,bleue,vert,jaune,noir,blanc,gris
+
+
+
+Trace un cercle autour de la tortue de rayon R:
+
+R Cercle
+
+
+Trace un ovale autour de la tortue de taille L x H:
+L H Ovale
+
+
+
+Efface le dessin:
+
+Nettoie
+CLS
+VE
+
+Passe en mode remplissage pour le tracé des figures :
+Plein
+
+Passe en mode trait pour le tracé des figures :
+Vide
+
+
+exemple de programme :
+
+CLS
+10 AV 20 DR 10 AV 20 DR 10 AV 20 DR 10 AV 20 DR 
+COL bleue 20 AV 20 DR  20 AV 20 DR  20 AV 20 DR 
